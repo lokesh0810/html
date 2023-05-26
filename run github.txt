@@ -1,9 +1,0 @@
-github
-
-
-git intit
-git add .
-git branch
-git remote origin link(given when created resporitary)
-
-git push origin master
